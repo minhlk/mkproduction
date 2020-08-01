@@ -1,0 +1,4 @@
+cover-url : image
+tags : categories
+"assets/images
+"{{site.baseurl}}/assets/images
